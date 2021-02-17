@@ -1,4 +1,5 @@
 {  
+    "produtos":[
         {
             "id": "1-1-1",
             "name": "Babete",
@@ -134,4 +135,5 @@
             "color": "white black branco preto ffffff",
             "image": "images/conjuntos/bebe/5-1-1.jpeg"
         }
+    ]
 }
